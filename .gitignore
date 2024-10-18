@@ -1,0 +1,6 @@
+/medico/mailkey.py
+/medico/recipes.csv
+/medico/config.py
+/medico/__pycache__/
+__pycache__/
+myenv/
